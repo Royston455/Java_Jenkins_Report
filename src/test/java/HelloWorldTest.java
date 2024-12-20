@@ -6,7 +6,7 @@ public class HelloWorldTest
 @Test
     public void test (){
 
-    System.out.println("Hello world!");
+    System.out.println ("Hello world!");
     System.out.println("Yes");
     }
 }
